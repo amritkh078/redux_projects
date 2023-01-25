@@ -5,8 +5,8 @@ import Login from './components/Login'
 const App = () => {
   return (
     <>
-    <Login/>
     <Profile/>
+    <Login/>
     </>
   )
 }
